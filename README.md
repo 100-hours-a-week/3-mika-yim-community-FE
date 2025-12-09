@@ -10,8 +10,10 @@
 [![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20CodeDeploy-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
 
 ## 📖 프로젝트 소개
+<img width="2032" height="1167" alt="스크린샷 2025-12-09 오후 5 23 15" src="https://github.com/user-attachments/assets/c82479e4-da91-4e71-96dc-ffe5cd2fd288" />
+<img width="2032" height="1167" alt="스크린샷 2025-12-09 오후 5 24 14" src="https://github.com/user-attachments/assets/81cc141f-8832-41f0-b130-b551dfa7237d" />
 
-[대청마루 시연영상](https://youtu.be/XHz-CpY4N0g)
+[대청마루 시연영상(youtube로 이동](https://youtu.be/XHz-CpY4N0g)
 
 **대청마루**는 사용자들이 자유롭게 게시글을 작성하고 소통할 수 있는 커뮤니티 플랫폼입니다.
 이 프론트엔드 프로젝트는 **Vanilla JavaScript (ES Modules)** 기반으로 작성되었으며, **Express.js**를 사용하여 정적 파일을 서빙하는 구조로 설계되었습니다.
